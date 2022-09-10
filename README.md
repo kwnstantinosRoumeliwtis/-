@@ -1,5 +1,5 @@
 # Computational-Intelligence  
-In this project there are 2 folders with java-ecliplse files.
+In this project there are 2 folders with java files.
 The Dataset_src folder contains the files necessary to create and visualize a dataset of two-dimensional points(x,y).
 After creating the points , the points are written to a txt file(dataset.txt) and at the end of each line their category(1,2,3,4) is marked.
 
