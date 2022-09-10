@@ -114,7 +114,7 @@ public class Network {
 		File data = new File(datasetPath);
 		createNetwork();
 		LoadDataset m = new LoadDataset(data);
-        int bestEpoch=0;
+                int bestEpoch=0;
 		int bestAccuracy = 0;
 		for (int epochs = 0; epochs < finalEpoch; epochs++) {
 			System.out.println("-------");
